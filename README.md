@@ -17,14 +17,14 @@
 
 ## My *Humble and Growing* Tech Toolkit <img src="https://emojis.slackmojis.com/emojis/images/1660225828/60569/happytaco.gif?1660225828" width="30"/> ##
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/-C Programming Language-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/-C Programming Language-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
 
 ## Where to find me ##
