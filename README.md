@@ -27,8 +27,9 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
 
-## Where to find me ##
-<p><a href="https://github.com/lxxSinigang" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+## Where to find me <img src="https://emojis.slackmojis.com/emojis/images/1643510827/37498/potato_pls.gif?1643510827" width="30"/> ##
+<p>
   <a href="https://www.linkedin.com/in/alexreyesdesign/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href=mailto:alexreyes.design.work@gmail.com target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/lxxSinigang" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
